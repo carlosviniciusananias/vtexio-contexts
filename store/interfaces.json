@@ -1,0 +1,14 @@
+{
+  "product-context-name": {
+    "component": "ProductContext"
+  },
+  "search-context": {
+    "component": "SearchContext"
+  },
+  "order-context": {
+    "component": "OrderContext"
+  },
+  "order-items": {
+    "component": "OrderItems"
+  }
+}
